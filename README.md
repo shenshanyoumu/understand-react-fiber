@@ -1,4 +1,6 @@
-# React-Fiber - 前言
+# React-Fiber
+
+## 前言
 
 &nbsp;&nbsp;在 React 中，UI 更新检测技术称为 reconciliation 或者 rendering。最新实现的渲染引擎 Fiber 可以支持 rendering 中断，并根据渲染优先级在后台重新渲染内容，这些特征被称为 time-slicing 技术。
 
